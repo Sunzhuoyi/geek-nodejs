@@ -1,3 +1,4 @@
+/*
 const fs = require('fs')
 const protobuf = require('protocol-buffers');
 const schemas = protobuf(
@@ -7,9 +8,9 @@ const schemas = protobuf(
 // 假数据
 const columnData = require('./mockdata/column')
 
-/**
+/!**
  * 服务端的编解包逻辑
- */
+ *!/
 const server = require('./lib/geeknode-rpc-server')(schemas.ColumnRequest, schemas.ColumnResponse);
 
 server
@@ -25,4 +26,4 @@ server
     })
     .listen(4000, ()=> {
         console.log('rpc server listened: 4000')
-    });
+    });*/
