@@ -18,5 +18,5 @@ app.use(
     )
 );
 
-app.listen(3002)
-// module.exports = app;
+// app.listen(3002)
+module.exports = app;
