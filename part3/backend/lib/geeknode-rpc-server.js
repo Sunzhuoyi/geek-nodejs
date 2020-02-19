@@ -10,14 +10,14 @@ module.exports = function (protobufRequestSchema, protobufResponseSchema) {
             }
         },
         isCompleteRequest(buffer) {
-            const bodyLength = buffer.readUint32BE(4);
+            const bodyLength = buffer.readUInt32BE(4);
             return 8 + bodyLength;
         },
         encodeResponse(data, seq) {
             const body = protobufResponseSchema.encode(data);
             const head = Buffer.alloc(8);
-            head.writeUint32BE(seq);
-            head.writeUint32BE(body.length, 4);
+            head.writeUInt32BE(seq);
+            head.writeUInt32BE(body.length, 4);
 
             return Buffer.concat([head, body])
         }

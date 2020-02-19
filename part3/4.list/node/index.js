@@ -18,13 +18,13 @@ app.use(mount('/data', async (ctx) => {
 
 app.use(async (ctx) => {
     ctx.status = 200;
-    const fileType = +(ctx.query.filt || 0)
+    const filtType = +(ctx.query.filt || 0)
     const sortType = +(ctx.query.sort || 0)
-    const reactData = await getData(sortType, fileType);
+    const reactData = await getData(sortType, filtType);
     ctx.body = template({
         reactString: ReactDOMServer.renderToString(App(reactData)),
         reactData,
-        fileType,
+        filtType,
         sortType
     })
 });

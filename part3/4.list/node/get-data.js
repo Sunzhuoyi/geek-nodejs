@@ -1,11 +1,11 @@
 const listClient = require('./list-client')
 
-module.exports = async function (sortType = 0, fileType = 0) {
+module.exports = async function (sortType = 0, filtType = 0) {
 
     const data = await new Promise((resolve, reject) => {
         listClient.write({
             sortType,
-            fileType
+            filtType
         }, function (err, res) {
             err ? reject(err) : resolve(res.dom);
         })
