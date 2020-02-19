@@ -7,6 +7,14 @@ app.use(
     mount('/download', require('./1.download/index'))
 );
 
+app.use(
+    mount('/detail', require('./2.detail/index'))
+);
+
+app.use(
+    mount('/list', require('./4.list/node/index'))
+)
+
 app.listen(3004, () => {
     console.log("listened 3004")
 });

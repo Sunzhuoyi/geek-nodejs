@@ -22,4 +22,4 @@ function createTemplate(templatePath) {
     return templateCache[templatePath]
 }
 
-module.exports = createTemplate()
+module.exports = createTemplate
