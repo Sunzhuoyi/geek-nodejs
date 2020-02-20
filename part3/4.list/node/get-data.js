@@ -7,10 +7,8 @@ module.exports = async function (sortType = 0, filtType = 0) {
             sortType,
             filtType
         }, function (err, res) {
-            err ? reject(err) : resolve(res.dom);
+            err ? reject(err) : resolve(res.columns);
         })
     });
-
     return data
-
 }
