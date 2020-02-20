@@ -12,7 +12,7 @@ module.exports = class Container extends React.Component {
                         <a className="_2TWCBjxa_0" onClick={this.props.filt.bind(this, 0)}>全部</a>
                         <a className="_2TWCBjxa_0" onClick={this.props.filt.bind(this, 1)}>专栏</a>
                         <a className="_2TWCBjxa_0" onClick={this.props.filt.bind(this, 2)}>视频课程</a>
-                        <a className="_2TWCBjxa_0" onClick={this.props.filt.bind(this, 3)}>微课</a>
+                        <a className="_2TWCBjxa_0" onClick={this.props.filt.bind(this, 2)}>微课</a>
                     </div>
                 </div>
                 <div className="_3hVBef3W_0">

@@ -87,9 +87,9 @@
 /******/ ({
 
 /***/ "../../node_modules/object-assign/index.js":
-/*!************************************************************************************!*\
-  !*** /Users/yanghao/Code/geek-nodejs/chapter3/node_modules/object-assign/index.js ***!
-  \************************************************************************************/
+/*!*********************************************************************************!*\
+  !*** /Users/mac/projects/geek-nodejs/part3/node_modules/object-assign/index.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -189,9 +189,9 @@ module.exports = shouldUseNative() ? Object.assign : function (target, source) {
 /***/ }),
 
 /***/ "../../node_modules/prop-types/checkPropTypes.js":
-/*!******************************************************************************************!*\
-  !*** /Users/yanghao/Code/geek-nodejs/chapter3/node_modules/prop-types/checkPropTypes.js ***!
-  \******************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /Users/mac/projects/geek-nodejs/part3/node_modules/prop-types/checkPropTypes.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -303,9 +303,9 @@ module.exports = checkPropTypes;
 /***/ }),
 
 /***/ "../../node_modules/prop-types/lib/ReactPropTypesSecret.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/yanghao/Code/geek-nodejs/chapter3/node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mac/projects/geek-nodejs/part3/node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -327,9 +327,9 @@ module.exports = ReactPropTypesSecret;
 /***/ }),
 
 /***/ "../../node_modules/react-dom/cjs/react-dom.development.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/yanghao/Code/geek-nodejs/chapter3/node_modules/react-dom/cjs/react-dom.development.js ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mac/projects/geek-nodejs/part3/node_modules/react-dom/cjs/react-dom.development.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28265,9 +28265,9 @@ module.exports = reactDom;
 /***/ }),
 
 /***/ "../../node_modules/react-dom/index.js":
-/*!********************************************************************************!*\
-  !*** /Users/yanghao/Code/geek-nodejs/chapter3/node_modules/react-dom/index.js ***!
-  \********************************************************************************/
+/*!*****************************************************************************!*\
+  !*** /Users/mac/projects/geek-nodejs/part3/node_modules/react-dom/index.js ***!
+  \*****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -28310,9 +28310,9 @@ if (false) {} else {
 /***/ }),
 
 /***/ "../../node_modules/react/cjs/react.development.js":
-/*!********************************************************************************************!*\
-  !*** /Users/yanghao/Code/geek-nodejs/chapter3/node_modules/react/cjs/react.development.js ***!
-  \********************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/mac/projects/geek-nodejs/part3/node_modules/react/cjs/react.development.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30654,9 +30654,9 @@ module.exports = react;
 /***/ }),
 
 /***/ "../../node_modules/react/index.js":
-/*!****************************************************************************!*\
-  !*** /Users/yanghao/Code/geek-nodejs/chapter3/node_modules/react/index.js ***!
-  \****************************************************************************/
+/*!*************************************************************************!*\
+  !*** /Users/mac/projects/geek-nodejs/part3/node_modules/react/index.js ***!
+  \*************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -30671,9 +30671,9 @@ if (false) {} else {
 /***/ }),
 
 /***/ "../../node_modules/scheduler/cjs/scheduler-tracing.development.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/yanghao/Code/geek-nodejs/chapter3/node_modules/scheduler/cjs/scheduler-tracing.development.js ***!
-  \************************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/mac/projects/geek-nodejs/part3/node_modules/scheduler/cjs/scheduler-tracing.development.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -31112,9 +31112,9 @@ exports.unstable_unsubscribe = unstable_unsubscribe;
 /***/ }),
 
 /***/ "../../node_modules/scheduler/cjs/scheduler.development.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/yanghao/Code/geek-nodejs/chapter3/node_modules/scheduler/cjs/scheduler.development.js ***!
-  \****************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/mac/projects/geek-nodejs/part3/node_modules/scheduler/cjs/scheduler.development.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32146,9 +32146,9 @@ exports.unstable_Profiling = unstable_Profiling;
 /***/ }),
 
 /***/ "../../node_modules/scheduler/index.js":
-/*!********************************************************************************!*\
-  !*** /Users/yanghao/Code/geek-nodejs/chapter3/node_modules/scheduler/index.js ***!
-  \********************************************************************************/
+/*!*****************************************************************************!*\
+  !*** /Users/mac/projects/geek-nodejs/part3/node_modules/scheduler/index.js ***!
+  \*****************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32163,9 +32163,9 @@ if (false) {} else {
 /***/ }),
 
 /***/ "../../node_modules/scheduler/tracing.js":
-/*!**********************************************************************************!*\
-  !*** /Users/yanghao/Code/geek-nodejs/chapter3/node_modules/scheduler/tracing.js ***!
-  \**********************************************************************************/
+/*!*******************************************************************************!*\
+  !*** /Users/mac/projects/geek-nodejs/part3/node_modules/scheduler/tracing.js ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32176,76 +32176,6 @@ if (false) {} else {
   module.exports = __webpack_require__(/*! ./cjs/scheduler-tracing.development.js */ "../../node_modules/scheduler/cjs/scheduler-tracing.development.js");
 }
 
-
-/***/ }),
-
-/***/ "../component/app.jsx":
-/*!****************************!*\
-  !*** ../component/app.jsx ***!
-  \****************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-const React = __webpack_require__(/*! react */ "../../node_modules/react/index.js");
-
-const ColumnItem = __webpack_require__(/*! ./column_item.jsx */ "../component/column_item.jsx");
-
-module.exports = class App extends React.Component {
-  render() {
-    return React.createElement("div", {
-      className: "_2lx4a-CP_0"
-    }, React.createElement("div", {
-      className: "_3KjZQbwk_0"
-    }, React.createElement("div", {
-      className: "kcMABq6U_0"
-    }, React.createElement("span", null, "\u8BFE\u7A0B\uFF1A"), React.createElement("a", {
-      className: "_2TWCBjxa_0",
-      onClick: this.props.filt.bind(this, 0)
-    }, "\u5168\u90E8"), React.createElement("a", {
-      className: "_2TWCBjxa_0",
-      onClick: this.props.filt.bind(this, 1)
-    }, "\u4E13\u680F"), React.createElement("a", {
-      className: "_2TWCBjxa_0",
-      onClick: this.props.filt.bind(this, 2)
-    }, "\u89C6\u9891\u8BFE\u7A0B"), React.createElement("a", {
-      className: "_2TWCBjxa_0",
-      onClick: this.props.filt.bind(this, 3)
-    }, "\u5FAE\u8BFE"))), React.createElement("div", {
-      className: "_3hVBef3W_0"
-    }, React.createElement("div", {
-      className: "_3S9KmBtG_0"
-    }, React.createElement("div", {
-      className: "_1o6EOwiF_0"
-    }, React.createElement("div", {
-      className: "_3HUryTHs_0"
-    }, React.createElement("a", {
-      className: "_1kRLIDSR_0",
-      onClick: this.props.sort.bind(this, 1)
-    }, "\u4E0A\u65B0"), React.createElement("a", {
-      className: "_1kRLIDSR_0",
-      onClick: this.props.sort.bind(this, 2)
-    }, "\u8BA2\u9605\u6570"), React.createElement("a", {
-      className: "_1kRLIDSR_0",
-      onClick: this.props.sort.bind(this, 3)
-    }, "\u4EF7\u683C", React.createElement("span", {
-      className: "_1Yk9PA11_0"
-    }, React.createElement("i", {
-      className: "iconfont _2jewjGCJ_0"
-    }, "\uE621"), " ", React.createElement("i", {
-      className: "iconfont _38FM8KCt_0"
-    }, "\uE621")))), React.createElement("span", {
-      className: "JfgzzksA_0"
-    }, this.props.columns.length, "\u4E2A\u8BFE\u7A0B")), React.createElement("div", null, this.props.columns.map(column => {
-      return React.createElement(ColumnItem, {
-        column: column,
-        key: column.id
-      });
-    })), React.createElement("div", {
-      className: "OjL5wNoM_0"
-    }, React.createElement("span", null, "\u2014 \u6CA1\u6709\u66F4\u591A\u4E86 \u2014")))));
-  }
-
-};
 
 /***/ }),
 
@@ -32312,6 +32242,76 @@ module.exports = class ColumnItem extends React.Component {
 
 /***/ }),
 
+/***/ "../component/container.jsx":
+/*!**********************************!*\
+  !*** ../component/container.jsx ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+const React = __webpack_require__(/*! react */ "../../node_modules/react/index.js");
+
+const ColumnItem = __webpack_require__(/*! ./column_item.jsx */ "../component/column_item.jsx");
+
+module.exports = class Container extends React.Component {
+  render() {
+    return React.createElement("div", {
+      className: "_2lx4a-CP_0"
+    }, React.createElement("div", {
+      className: "_3KjZQbwk_0"
+    }, React.createElement("div", {
+      className: "kcMABq6U_0"
+    }, React.createElement("span", null, "\u8BFE\u7A0B\uFF1A"), React.createElement("a", {
+      className: "_2TWCBjxa_0",
+      onClick: this.props.filt.bind(this, 0)
+    }, "\u5168\u90E8"), React.createElement("a", {
+      className: "_2TWCBjxa_0",
+      onClick: this.props.filt.bind(this, 1)
+    }, "\u4E13\u680F"), React.createElement("a", {
+      className: "_2TWCBjxa_0",
+      onClick: this.props.filt.bind(this, 2)
+    }, "\u89C6\u9891\u8BFE\u7A0B"), React.createElement("a", {
+      className: "_2TWCBjxa_0",
+      onClick: console.log("微课")
+    }, "\u5FAE\u8BFE"))), React.createElement("div", {
+      className: "_3hVBef3W_0"
+    }, React.createElement("div", {
+      className: "_3S9KmBtG_0"
+    }, React.createElement("div", {
+      className: "_1o6EOwiF_0"
+    }, React.createElement("div", {
+      className: "_3HUryTHs_0"
+    }, React.createElement("a", {
+      className: "_1kRLIDSR_0",
+      onClick: this.props.sort.bind(this, 1)
+    }, "\u4E0A\u65B0"), React.createElement("a", {
+      className: "_1kRLIDSR_0",
+      onClick: this.props.sort.bind(this, 2)
+    }, "\u8BA2\u9605\u6570"), React.createElement("a", {
+      className: "_1kRLIDSR_0",
+      onClick: this.props.sort.bind(this, 3)
+    }, "\u4EF7\u683C", React.createElement("span", {
+      className: "_1Yk9PA11_0"
+    }, React.createElement("i", {
+      className: "iconfont _2jewjGCJ_0"
+    }, "\uE621"), " ", React.createElement("i", {
+      className: "iconfont _38FM8KCt_0"
+    }, "\uE621")))), React.createElement("span", {
+      className: "JfgzzksA_0"
+    }, this.props.columns && this.props.columns.length, "\u4E2A\u8BFE\u7A0B")), React.createElement("div", null, this.props.columns && this.props.columns.map(column => {
+      return React.createElement(ColumnItem, {
+        column: column,
+        key: column.id
+      });
+    })), React.createElement("div", {
+      className: "OjL5wNoM_0"
+    }, React.createElement("span", null, "\u2014 \u6CA1\u6709\u66F4\u591A\u4E86 \u2014")))));
+  }
+
+};
+
+/***/ }),
+
 /***/ "./index.jsx":
 /*!*******************!*\
   !*** ./index.jsx ***!
@@ -32319,13 +32319,13 @@ module.exports = class ColumnItem extends React.Component {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-const App = __webpack_require__(/*! ../component/app.jsx */ "../component/app.jsx");
+const Container = __webpack_require__(/*! ../component/container.jsx */ "../component/container.jsx");
 
 const React = __webpack_require__(/*! react */ "../../node_modules/react/index.js");
 
 const ReactDOM = __webpack_require__(/*! react-dom */ "../../node_modules/react-dom/index.js");
 
-class Container extends React.Component {
+class App extends React.Component {
   constructor() {
     super();
     this.state = {
@@ -32336,7 +32336,7 @@ class Container extends React.Component {
   }
 
   render() {
-    return React.createElement(App, {
+    return React.createElement(Container, {
       columns: this.state.columns,
       filt: filtType => {
         fetch(`./data?sort=${this.state.sortType}&filt=${filtType}`).then(res => res.json()).then(json => {
@@ -32359,7 +32359,7 @@ class Container extends React.Component {
 
 }
 
-ReactDOM.render(React.createElement(Container, null), document.getElementById('reactapp'));
+ReactDOM.render(React.createElement(App, null), document.getElementById('reactapp'));
 
 /***/ })
 
