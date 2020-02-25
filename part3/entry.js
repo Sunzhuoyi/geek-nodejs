@@ -13,7 +13,11 @@ app.use(
 
 app.use(
     mount('/list', require('./4.list/node/index'))
-)
+);
+
+app.use(
+    mount('/play', require('./3.play/index'))
+);
 
 app.listen(3004, () => {
     console.log("listened 3004")
