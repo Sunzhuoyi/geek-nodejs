@@ -1,7 +1,7 @@
 const fs = require('fs');
 const app = new (require('koa'));
 const mount = require('koa-mount');
-const static = require('koa-static');
+const koaStatic = require('koa-static');
 const graphqlHTTP = require('koa-graphql');
 
 app.use(
@@ -11,7 +11,7 @@ app.use(
 );
 
 app.use(
-    mount('/static', static(`${__dirname}/source/static`))
+    mount('/static', koaStatic(`${__dirname}/source/static`))
 )
 
 app.use(
